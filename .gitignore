@@ -1,1 +1,22 @@
+# dependencies
 node_modules/
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# nest.js
+/.next/
+/out/
+
+# prodution
+/build
+
+# misc
+.DS_Store
+
+# Debug
+npm-debug.log*
+yarm-debug.log*
+yarm-error.log*
